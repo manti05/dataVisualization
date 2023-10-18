@@ -47,4 +47,4 @@ Follow the on-screen instructions to choose the graph type and configure the vis
 ## Author
 Mantas Stankevicius
 
-For questions or assistance, please contact [mantas@mantascodes.com].
+For questions or assistance, please contact mantas@mantascodes.com.
