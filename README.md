@@ -5,7 +5,8 @@
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-
+- [Author](#author)
+  
 ## Introduction
 
 This data visualization application allows you to explore and visualize life expectancy data for various countries. It provides several types of visualizations to help you better understand and compare life expectancies, birth rates, and death rates in different regions.
@@ -43,3 +44,7 @@ Upon running the application, you will be presented with a menu to select the ty
 
 Follow the on-screen instructions to choose the graph type and configure the visualization parameters. The application will generate and display the selected graph for your analysis.
 
+## Author
+Mantas Stankevicius
+
+For questions or assistance, please contact [mantas@mantascodes.com].
